@@ -1,2 +1,2 @@
 # Discussions
-Repository to host discussions on EMOD software ecosphere, encompassing all the projects in this organization and their uses. 
+A central hub for issues and discussions across the EMOD software ecosystem, covering all projects within this organization and their applications.
